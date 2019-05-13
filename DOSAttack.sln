@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOSAttack", "DOSAttack\DOSAttack.csproj", "{F246A412-1A0F-4FC5-836E-0FC29E6B5BC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F246A412-1A0F-4FC5-836E-0FC29E6B5BC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F246A412-1A0F-4FC5-836E-0FC29E6B5BC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F246A412-1A0F-4FC5-836E-0FC29E6B5BC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F246A412-1A0F-4FC5-836E-0FC29E6B5BC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FBE2251-25B7-46B5-ABAC-6405FA18B1D7}
+	EndGlobalSection
+EndGlobal
